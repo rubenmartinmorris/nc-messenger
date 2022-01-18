@@ -1,0 +1,31 @@
+{
+  "name": "nc-messenger",
+  "version": "1.0.0",
+  "description": "This is a readme. Main.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlaferry/nc-messenger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karlaferry/nc-messenger/issues"
+  },
+  "homepage": "https://github.com/karlaferry/nc-messenger#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.10.0",
+    "@typescript-eslint/parser": "^5.10.0",
+    "eslint": "^8.7.0",
+    "eslint-plugin-react": "^7.28.0",
+    "husky": "^7.0.4"
+  },
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
